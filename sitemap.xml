@@ -15,15 +15,31 @@
  </url>
  <url>
   <loc>https://kaszanas.github.io/archive.html</loc>
-  <lastmod>2020-03-01T19:23:00Z</lastmod>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/categories/</loc>
-  <lastmod>2020-03-01T15:37:00Z</lastmod>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/categories/cat_article/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/categories/cat_programming-art-tech-notes-todo/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/categories/esport/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/categories/python/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/categories/video/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/galleries/</loc>
@@ -39,7 +55,7 @@
  </url>
  <url>
   <loc>https://kaszanas.github.io/listings/hello.py.html</loc>
-  <lastmod>2020-03-01T19:23:00Z</lastmod>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/pl/</loc>
@@ -51,24 +67,49 @@
  </url>
  <url>
   <loc>https://kaszanas.github.io/pl/archive.html</loc>
-  <lastmod>2020-03-01T19:23:00Z</lastmod>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/pl/categories/</loc>
-  <lastmod>2020-03-01T15:37:00Z</lastmod>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/pl/categories/cat_article/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
  </url>
  <url>
+  <loc>https://kaszanas.github.io/pl/categories/cat_programming-art-tech-notes-todo/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/categories/esport/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/categories/python/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/categories/video/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://kaszanas.github.io/pl/galleries/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/posts/explaining-tags-and-categories/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kaszanas.github.io/posts/explaining-tags-and-categories/" />
  </url>
  <url>
   <loc>https://kaszanas.github.io/pl/posts/hello-world-kaszanas/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://kaszanas.github.io/posts/hello-world-kaszanas/" />
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/posts/explaining-tags-and-categories/</loc>
+  <lastmod>2020-03-01T20:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/posts/hello-world-kaszanas/</loc>
