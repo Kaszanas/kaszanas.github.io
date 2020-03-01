@@ -244,3 +244,5 @@
 'render_pages:output\\posts\\hello-world-kaszanas\\index.html', (389632, 5050)
 'render_taxonomies:output\\pl\\categories\\cat_article.xml', (398336, 556)
 'render_pages:output\\pl\\posts\\hello-world-kaszanas\\index.html', (399360, 5050)
+'render_posts:cache\\posts\\hello-world-kaszanas.pl.html', (404480, 389)
+'render_posts:cache\\posts\\hello-world-kaszanas.html', (404992, 389)
