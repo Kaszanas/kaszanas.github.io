@@ -2,7 +2,7 @@
 .. slug: explaining-tags-and-categories
 .. date: 2020-03-01 21:17:00 UTC+01:00
 .. tags: Python, Esport, Video
-.. category: Programming, Art, Tech, Notes, TODO
+.. category: Programming Art Tech Notes TODO
 .. link: https://beepb00p.xyz/
 .. description: I have decided to explain to myself and to others what tags and categories mean on this website
 .. type: text
