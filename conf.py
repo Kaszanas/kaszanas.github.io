@@ -396,7 +396,7 @@ TAG_DESCRIPTIONS = {
 # If you do not want to display a tag publicly, you can mark it as hidden.
 # The tag will not be displayed on the tag list page and posts.
 # Tag pages will still be generated.
-HIDDEN_TAGS = []
+HIDDEN_TAGS = ['TODO', 'Notes']
 
 # Only include tags on the tag list/overview page if there are at least
 # TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag
@@ -451,11 +451,11 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the category list or index page’s title.
-CATEGORY_DESCRIPTIONS = {
-   DEFAULT_LANG: {
-       "TODO": "My TODO ideas with certain resources attatched (or not)",
-   },
-}
+# CATEGORY_DESCRIPTIONS = {
+#    DEFAULT_LANG: {
+#        "TODO": "My TODO ideas with certain resources attatched (or not)",
+#    },
+# }
 
 # Set special titles for category pages. The default is "Posts about CATEGORY".
 # CATEGORY_TITLES = {
@@ -468,7 +468,7 @@ CATEGORY_DESCRIPTIONS = {
 # If you do not want to display a category publicly, you can mark it as hidden.
 # The category will not be displayed on the category list page.
 # Category pages will still be generated.
-HIDDEN_CATEGORIES = ['TODO', 'Notes']
+HIDDEN_CATEGORIES = []
 
 # A list of dictionaries specifying categories which translate to each other.
 # Format: a list of dicts {language: translation, language2: translation2, …}
