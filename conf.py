@@ -25,7 +25,7 @@ SITE_URL = "https://kaszanas.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://kaszanas.github.io/"
 BLOG_EMAIL = "kaszanas@interia.pl"
-BLOG_DESCRIPTION = "Hello World description!"  # (translatable)
+BLOG_DESCRIPTION = "Programming, Science, Sport and Esport"  # (translatable)
 
 # Nikola is multilingual!
 #
