@@ -17,15 +17,15 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Andrzej Białecki"  # (translatable)
-BLOG_TITLE = "kaszgg"  # (translatable)
+BLOG_TITLE = "kaszanas"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://kaszanas.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://example.com/"
-BLOG_EMAIL = "a.b@something.com"
-BLOG_DESCRIPTION = "This is a example description"  # (translatable)
+# BASE_URL = "https://kaszanas.github.io/"
+BLOG_EMAIL = "kaszanas@interia.pl"
+BLOG_DESCRIPTION = "Hello World description!"  # (translatable)
 
 # Nikola is multilingual!
 #
