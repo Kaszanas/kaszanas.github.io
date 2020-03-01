@@ -10,44 +10,12 @@
   <lastmod>2020-03-01T15:37:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/cat_esports.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/coding.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/esports.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/categories/todo.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://example.com/galleries/rss.xml</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/pl/categories/cat_article.xml</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/pl/categories/cat_esports.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/pl/categories/coding.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/pl/categories/esports.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://example.com/pl/categories/todo.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/pl/galleries/rss.xml</loc>
@@ -63,6 +31,6 @@
  </sitemap>
  <sitemap>
   <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2020-03-01T15:37:00Z</lastmod>
+  <lastmod>2020-03-01T15:39:00Z</lastmod>
  </sitemap>
 </sitemapindex>

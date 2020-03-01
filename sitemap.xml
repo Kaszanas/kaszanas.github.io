@@ -26,22 +26,6 @@
   <lastmod>2020-03-01T15:37:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/cat_esports/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/coding/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/esports/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/todo/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/galleries/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
@@ -78,22 +62,6 @@
   <lastmod>2020-03-01T15:37:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pl/categories/cat_esports/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/pl/categories/coding/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/pl/categories/esports/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/pl/categories/todo/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/pl/galleries/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
@@ -103,15 +71,7 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://example.com/posts/hello-world-kaszanas/" />
  </url>
  <url>
-  <loc>https://example.com/pl/posts/this-is-kaszanas-here/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/posts/hello-world-kaszanas/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/this-is-kaszanas-here/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
 </urlset>
