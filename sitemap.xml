@@ -19,7 +19,11 @@
  </url>
  <url>
   <loc>https://kaszanas.github.io/categories/</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/categories/art/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/categories/cat_article/</loc>
@@ -34,8 +38,28 @@
   <lastmod>2020-03-01T20:30:00Z</lastmod>
  </url>
  <url>
+  <loc>https://kaszanas.github.io/categories/notes/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/categories/programming/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://kaszanas.github.io/categories/python/</loc>
   <lastmod>2020-03-01T20:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/categories/sport/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/categories/tech/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/categories/todo/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/categories/video/</loc>
@@ -71,7 +95,11 @@
  </url>
  <url>
   <loc>https://kaszanas.github.io/pl/categories/</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/categories/art/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/pl/categories/cat_article/</loc>
@@ -86,8 +114,28 @@
   <lastmod>2020-03-01T20:30:00Z</lastmod>
  </url>
  <url>
+  <loc>https://kaszanas.github.io/pl/categories/notes/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/categories/programming/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://kaszanas.github.io/pl/categories/python/</loc>
   <lastmod>2020-03-01T20:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/categories/sport/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/categories/tech/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/categories/todo/</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://kaszanas.github.io/pl/categories/video/</loc>

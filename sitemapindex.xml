@@ -6,48 +6,96 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://kaszanas.github.io/categories/art.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://kaszanas.github.io/categories/cat_article.xml</loc>
-  <lastmod>2020-03-01T19:23:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/categories/cat_programming-art-tech-notes-todo.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/categories/esport.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/categories/notes.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/categories/programming.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/categories/python.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/categories/sport.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/categories/tech.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/categories/todo.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/categories/video.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/galleries/rss.xml</loc>
   <lastmod>2020-03-01T20:30:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://kaszanas.github.io/pl/categories/art.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://kaszanas.github.io/pl/categories/cat_article.xml</loc>
-  <lastmod>2020-03-01T19:23:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/pl/categories/cat_programming-art-tech-notes-todo.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/pl/categories/esport.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/pl/categories/notes.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/pl/categories/programming.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/pl/categories/python.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/pl/categories/sport.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/pl/categories/tech.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kaszanas.github.io/pl/categories/todo.xml</loc>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/pl/categories/video.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/pl/galleries/rss.xml</loc>
@@ -55,14 +103,14 @@
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/pl/rss.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/rss.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kaszanas.github.io/sitemap.xml</loc>
-  <lastmod>2020-03-01T20:30:00Z</lastmod>
+  <lastmod>2020-03-01T20:38:00Z</lastmod>
  </sitemap>
 </sitemapindex>
