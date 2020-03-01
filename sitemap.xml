@@ -6,72 +6,72 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://kaszanas.github.io/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2020/</loc>
+  <loc>https://kaszanas.github.io/2020/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
+  <loc>https://kaszanas.github.io/archive.html</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://kaszanas.github.io/categories/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/cat_article/</loc>
+  <loc>https://kaszanas.github.io/categories/cat_article/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://kaszanas.github.io/galleries/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://kaszanas.github.io/listings/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/__pycache__/</loc>
+  <loc>https://kaszanas.github.io/listings/__pycache__/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/hello.py.html</loc>
+  <loc>https://kaszanas.github.io/listings/hello.py.html</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kaszanas.github.io/pl/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pl/</loc>
+  <loc>https://kaszanas.github.io/pl/2020/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pl/2020/</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
+  <loc>https://kaszanas.github.io/pl/archive.html</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pl/archive.html</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/pl/categories/</loc>
+  <loc>https://kaszanas.github.io/pl/categories/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pl/categories/cat_article/</loc>
+  <loc>https://kaszanas.github.io/pl/categories/cat_article/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pl/galleries/</loc>
+  <loc>https://kaszanas.github.io/pl/galleries/</loc>
   <lastmod>2020-03-01T15:02:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pl/posts/hello-world-kaszanas/</loc>
+  <loc>https://kaszanas.github.io/pl/posts/hello-world-kaszanas/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://example.com/posts/hello-world-kaszanas/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://kaszanas.github.io/posts/hello-world-kaszanas/" />
  </url>
  <url>
-  <loc>https://example.com/posts/hello-world-kaszanas/</loc>
+  <loc>https://kaszanas.github.io/posts/hello-world-kaszanas/</loc>
   <lastmod>2020-03-01T15:37:00Z</lastmod>
  </url>
 </urlset>

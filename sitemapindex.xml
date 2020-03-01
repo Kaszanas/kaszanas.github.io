@@ -6,31 +6,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/categories/cat_article.xml</loc>
-  <lastmod>2020-03-01T15:37:00Z</lastmod>
+  <loc>https://kaszanas.github.io/categories/cat_article.xml</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
+  <loc>https://kaszanas.github.io/galleries/rss.xml</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/pl/categories/cat_article.xml</loc>
-  <lastmod>2020-03-01T15:37:00Z</lastmod>
+  <loc>https://kaszanas.github.io/pl/categories/cat_article.xml</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/pl/galleries/rss.xml</loc>
-  <lastmod>2020-03-01T15:02:00Z</lastmod>
+  <loc>https://kaszanas.github.io/pl/galleries/rss.xml</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/pl/rss.xml</loc>
-  <lastmod>2020-03-01T15:37:00Z</lastmod>
+  <loc>https://kaszanas.github.io/pl/rss.xml</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2020-03-01T15:37:00Z</lastmod>
+  <loc>https://kaszanas.github.io/rss.xml</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2020-03-01T15:39:00Z</lastmod>
+  <loc>https://kaszanas.github.io/sitemap.xml</loc>
+  <lastmod>2020-03-01T15:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>
